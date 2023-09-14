@@ -2,7 +2,7 @@
 % A simple demo for SuperPCA-DA based Hyperspectral Imagery Classification
 % If you  have any problem, do not hesitate to contact
 % Shang Gao (shang_gao_cug@163.com)
-% Version 1,2022-07-11
+% Version 2,2023-05-11
 '''
 import numpy as np
 from sklearn import svm
