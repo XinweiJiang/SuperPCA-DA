@@ -1,5 +1,5 @@
 # SuperPCA-DA
-Code for the paper 'Superpixelwise PCA based Data Augmentation for Hyperspectral Classification' submitted to IEEE GRSL.
+Code for the paper 'Superpixelwise PCA based Data Augmentation for Hyperspectral Classification' submitted to Multimedia Tools and Applications.
 
 Run 'demo/SuperPCA_DA_demo.py' to regenerate the experimental results in our paper.
 
